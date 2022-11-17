@@ -1,5 +1,5 @@
 # Tutoring
-Resources used for tutoring sessions for CSE 20: Programming with Python.
+Resources used for my sessions as a tutor for CSE 20: Programming with Python.
 
 Key foundational concepts in computer science are covered using Python in the course.
 - Data structures: Dictionaries, lists/vectors, tuples/arrays.
