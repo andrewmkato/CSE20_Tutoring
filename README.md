@@ -1,9 +1,15 @@
 # Tutoring
-Resources used for my sessions as a tutor for CSE 20: Programming with Python.
+Resources used for my sessions as a tutor for CSE 20: Programming with Python at UC Santa Cruz. This repository serves as a long-term place to store useful guides for students in my sessions.
 
-Key foundational concepts in computer science are covered using Python in the course.
-- Data structures: Dictionaries, lists/vectors, tuples/arrays.
-- Object-oriented programming: Class construction, hierarchy, getters/setters
+## Examples of Concepts Covered in the Course
+- Data structures: Dictionaries, lists, tuples.
+- Control flow: Conditionals, loops.
+- Object-oriented programming: Class construction, inheritance, polymorphism.
 - Input/Output (IO): File manipulation, reading in data.
+- Data analysis
+- Search algorithms 
 
-This repository serves as a place to store useful guides for students in my sessions.
+## Other Helpful Resources for Beginner to Intermediate Learners
+- [*Introducing Python: Modern Computing in Simple Packages*](https://www.oreilly.com/library/view/introducing-python-2nd/9781492051374/) by Bill Lubanovich, 2019 (O'Reilly)
+- [*Fluent Python: Clear, Concise, and Effective Programming*](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) by Luciano Ramalho, 2022 (O'Reilly)
+- *[Python Data Analytics]*(https://link.springer.com/book/10.1007/978-1-4842-3913-1) by Fabio Nelli, 2018 (Apress)
