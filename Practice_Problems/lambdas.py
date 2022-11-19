@@ -4,7 +4,7 @@
 
 # lambda input: output
 
-# TODO: Change the following function so that it becomes a lambda.
+# TODO: Turn the following normal function into a one-line lambda function.
 def add(x, y):
     return x + y # Without using lambda notation.
 
