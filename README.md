@@ -12,4 +12,6 @@ Resources used for my sessions as a tutor for CSE 20: Programming with Python at
 ## Other Helpful Resources for Beginner to Intermediate Learners
 - [*Introducing Python: Modern Computing in Simple Packages*](https://www.oreilly.com/library/view/introducing-python-2nd/9781492051374/) by Bill Lubanovich, 2019 (O'Reilly)
 - [*Fluent Python: Clear, Concise, and Effective Programming*](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) by Luciano Ramalho, 2022 (O'Reilly)
-- *[Python Data Analytics]*(https://link.springer.com/book/10.1007/978-1-4842-3913-1) by Fabio Nelli, 2018 (Apress)
+    - Open access: [GitHub with support files and related resources](https://github.com/fluentpython)
+- [*Python Data Analytics*](https://link.springer.com/book/10.1007/978-1-4842-3913-1) by Fabio Nelli, 2018 (Apress)
+- Open access: [Official Python documentation](https://www.python.org/doc/). Always read the documentation!
