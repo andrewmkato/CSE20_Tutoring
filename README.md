@@ -2,10 +2,9 @@
 Resources used for my sessions as a tutor for CSE 20: Programming with Python at UC Santa Cruz. This repository serves as a long-term place to store useful guides for students in my sessions.
 
 ## Examples of Concepts Covered in the Course
-- Data structures: Dictionaries, lists, tuples.
-- Control flow: Conditionals, loops, error handling.
+- Data structures: Dictionaries, lists, tuples, etc..
+- Control flow: Conditionals, loops, error-handling.
 - Object-oriented programming: Class construction, inheritance, polymorphism.
-- Input/Output (IO): File manipulation, reading in data.
 - Data analysis: File manipulation, data processing with NumPy, Pandas, and Matplotlib.
 - Search algorithms 
 
