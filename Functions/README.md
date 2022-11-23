@@ -1,6 +1,6 @@
 # The Concept and Implementation of Functions
 
-How do you normally think of the word _function_, outside of computer programming? At least one idea that most people think of is along the lines of a definition from [_Merriam_Webster_](https://www.merriam-webster.com/thesaurus/function):
+How do you normally think of the word _function_, outside of computer programming? At least one idea that most people think of is along the lines of a definition from [_Merriam-Webster_](https://www.merriam-webster.com/thesaurus/function):
 - _The action for which a person or thing is specially fitted or used for which a thing exists._
 
 An example you've likely heard me bring up involves cars. What would you say is the function of a car? Here are some common examples I hear:
