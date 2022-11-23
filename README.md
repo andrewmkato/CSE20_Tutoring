@@ -1,5 +1,5 @@
 # Tutoring
-This is a repository of resources used for my sessions as a tutor for CSE 20: Programming with Python at UC Santa Cruz. This repository serves as a long-term place to store useful guides for students in my sessions, as well as an easy-to-reference toolbox for applying foundational concepts in the Python language.
+This is a repository of resources used for my sessions as a tutor for CSE 20: Programming with Python at UC Santa Cruz. This repository serves as a long-term place to store useful guides for students in my sessions, as well as an easy-to-reference toolbox for applying foundational concepts in the Python language. You'll find Jupyter Notebooks that can be thought of as one-pager lessons on programming topics, along with practice problem files for active learning and concept-application.
 
 ## Examples of Concepts Covered in the Course
 - Data structures: Dictionaries, lists, tuples, etc..
