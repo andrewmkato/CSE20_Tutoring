@@ -14,7 +14,7 @@ equation2 = ((3)**(3-1)) + 2
 # print(equation2)
 
 # TODO: Even if you aren't quite sure what exactly the following equation does,
-#       what do you think it means. Try breaking it down into smaller parts or
+#       what do you think it means? Try breaking it down into smaller parts or
 #       talking through it. Remember, it is a list, so it must contain at least
 #       something.
 
